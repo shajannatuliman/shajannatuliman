@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi 👋 My name is Shajannatul Iman
+My name is Shajannatul Iman
 =================================
 
 Student of Bachelor in Computer Science (Software Engineering)
