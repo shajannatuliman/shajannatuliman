@@ -4,7 +4,10 @@ My name is Shajannatul Iman
 Student of Bachelor in Computer Science (Software Engineering)
 --------------------------------------------------------------
 
-Student of Bachelor in Computer Science (Software Engineering)
+My Biodata
+----------
+
+Name: Shajannatul Iman Binti Abdul Majid Age: 19 Origin: Ipoh, Perak Birthday: 7/6/2004
 
 ### Skills
 
