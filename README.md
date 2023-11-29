@@ -17,7 +17,7 @@ __Summary__
 Core
 ----
 
-Education Background
+Education Background🏫
 
 Primary School: SK Pasukan Polis Hutan  
 Secondary School: SMK Raja Perempuan, Ipoh  
@@ -33,7 +33,7 @@ Foundation: Kolej Mara Kuala Nerang
 Recommended
 -----------
 
-Courses  
+Courses📚  
 
 Currently taking courses of Software Engineering  
 
