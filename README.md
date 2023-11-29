@@ -4,6 +4,8 @@ My name is Shajannatul Iman
 Student of Bachelor in Computer Science (Software Engineering)
 --------------------------------------------------------------
 
+Student of Bachelor in Computer Science (Software Engineering)
+
 ### Skills
 
 
