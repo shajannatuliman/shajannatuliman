@@ -14,6 +14,15 @@ Birthday: 7/6/2004
 
 __Summary__
 
+Core
+----
+
+Education Background  
+Primary School: SK Pasukan Polis Hutan  
+Secondary School: SMK Raja Perempuan, Ipoh  
+Foundation: Kolej Mara Kuala Nerang  
+
+
 ### Skills
 
 
