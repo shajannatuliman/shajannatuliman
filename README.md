@@ -21,7 +21,22 @@ Education Background
 
 Primary School: SK Pasukan Polis Hutan  
 Secondary School: SMK Raja Perempuan, Ipoh  
-Foundation: Kolej Mara Kuala Nerang  
+Foundation: Kolej Mara Kuala Nerang
+
+Recommended
+-----------
+
+Courses  
+
+Currently taking courses of Software Engineering  
+
+The list of subjects:  
+
+-Programming Technique 1  
+-Discrete Structure  
+-Digital Logic  
+-Technology & Information System  
+-Integrity & Anti-Corruption
 
 
 ### Skills
