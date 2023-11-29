@@ -1,4 +1,4 @@
-My name is Shajannatul Iman
+Shajannatul Iman
 =================================
 
 Student of Bachelor in Computer Science (Software Engineering)
@@ -17,7 +17,8 @@ __Summary__
 Core
 ----
 
-Education Background  
+Education Background
+
 Primary School: SK Pasukan Polis Hutan  
 Secondary School: SMK Raja Perempuan, Ipoh  
 Foundation: Kolej Mara Kuala Nerang  
