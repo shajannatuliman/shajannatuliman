@@ -12,7 +12,8 @@ Age: 19
 Origin: Ipoh, Perak  
 Birthday: 7/6/2004
 
-Summary
+_Summary_
+
 ### Skills
 
 
