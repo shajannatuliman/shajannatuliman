@@ -14,6 +14,7 @@ Birthday: 7/6/2004
 
 __Summary__
 
+In summary, you can call me Iman and feel free to contact me through my email 🖥 shajannatuliman@graduate.utm.my
 
 Core
 ----
@@ -45,6 +46,11 @@ The list of subjects:
 -Digital Logic  
 -Technology & Information System  
 -Integrity & Anti-Corruption
+
+Additional
+-----------
+
+
 
 
 
