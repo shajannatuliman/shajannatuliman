@@ -47,9 +47,6 @@ The list of subjects:
 -Technology & Information System  
 -Integrity & Anti-Corruption
 
-Additional
------------
-
 
 
 
