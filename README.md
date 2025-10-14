@@ -8,7 +8,7 @@ My Biodata
 ----------
 
 Name: Shajannatul Iman Binti Abdul Majid  
-Age: 19  
+Age: 21  
 Origin: Ipoh, Perak  
 Birthday: 7/6/2004
 
@@ -37,14 +37,14 @@ Recommended
 
 Courses📚  
 
-Currently taking courses of Software Engineering  
+Currently taking courses of Software Engineering in Year 3 Sem 1 
 
 The list of subjects:  
 
--Programming Technique 1  
--Discrete Structure  
--Digital Logic  
--Technology & Information System  
+-Application Development  
+-Internet Programming  
+-Artificial Intelligence  
+-  
 -Integrity & Anti-Corruption
 
 
