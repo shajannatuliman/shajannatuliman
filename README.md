@@ -41,11 +41,6 @@ Currently taking courses of Software Engineering in Year 3 Sem 1
 
 The list of subjects:  
 
--Application Development  
--Internet Programming  
--Artificial Intelligence  
--  
--Integrity & Anti-Corruption
 
 
 
