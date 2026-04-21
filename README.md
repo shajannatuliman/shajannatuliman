@@ -54,11 +54,11 @@ Welcome to my GitHub! I am a Year 3 Software Engineering student at Universiti T
 *Here is a snapshot of my coding activity and contributions:*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Iman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shajannatuliman&show_icons=true&theme=radium&hide_border=true" alt="Iman's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="Iman's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajannatuliman&theme=radium&hide_border=true" alt="Iman's GitHub Streak" />
 </p>
 
 ---
