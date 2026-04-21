@@ -1,4 +1,4 @@
-Shajannatul Iman 🦋
+Shajannatul Iman
 =================================
 
 Student of Bachelor in Computer Science (Software Engineering)
