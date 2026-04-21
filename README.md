@@ -1,48 +1,65 @@
-Shajannatul Iman
-=================================
+# Hi there, I'm Shajannatul Iman (Iman) 👋
 
-Student of Bachelor in Computer Science (Software Engineering)
---------------------------------------------------------------
+### 💻 Software Engineering Undergraduate @ UTM | Full-Stack Developer
 
-My Biodata
-----------
+Welcome to my GitHub! I am a Year 3 Software Engineering student at Universiti Teknologi Malaysia (UTM) with a strong foundation in backend architecture, full-stack web development, and mobile applications. I enjoy translating complex business requirements into scalable software solutions.
 
-Name: Shajannatul Iman Binti Abdul Majid  
-Age: 21  
-Origin: Ipoh, Perak  
-Birthday: 7/6/2004
+📫 **Reach me at:** [shajannatuliman@graduate.utm.my](mailto:shajannatuliman@graduate.utm.my)
 
-__Summary__
+---
 
-In summary, you can call me Iman and feel free to contact me through my email 🖥 shajannatuliman@graduate.utm.my
+### 🚀 About Me
 
-Core
-----
+- 🎓 Currently pursuing a **Bachelor in Computer Science (Software Engineering)** at UTM.
+- 💡 **Current Focus:** System Architecture, Object-Oriented Programming (OOP), and full-stack development.
+- 🏗️ **What I build:** I have developed solutions ranging from a Clinic Appointment Queue System to a Mobile Mandarin Learning App and full-stack educational platforms (SMCG).
+- 📝 **Documentation:** Highly proficient in writing Software Requirements and Design Documents (SRDD), plotting UMLs, and mapping Exception/Alternative Flows.
+- 🌍 **Fun Fact:** Originally from Ipoh, Perak!
 
-Education Background🏫
+---
 
-Primary School: SK Pasukan Polis Hutan  
-Secondary School: SMK Raja Perempuan, Ipoh  
-Foundation: Kolej Mara Kuala Nerang
+### 🛠️ Tech Stack & Tools
 
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+**Languages** <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-Recommended
------------
+**Frameworks & Libraries** <p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-Courses📚  
+**Databases & Cloud** <p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
 
-Currently taking courses of Software Engineering in Year 3 Sem 1 
+**Design & Tools** <p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-The list of subjects:  
+---
 
+### 📊 GitHub Stats
 
+*Here is a snapshot of my coding activity and contributions:*
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Iman's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="Iman's GitHub Streak" />
+</p>
 
-
+---
+*Let's connect and build something awesome together!*
