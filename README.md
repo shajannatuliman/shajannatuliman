@@ -4,7 +4,9 @@
 
 Welcome to my GitHub! I am a Year 3 Software Engineering student at Universiti Teknologi Malaysia (UTM) with a strong foundation in backend architecture, full-stack web development, and mobile applications. I enjoy translating complex business requirements into scalable software solutions.
 
-📫 **Reach me at:** [shajannatuliman@graduate.utm.my](mailto:shajannatuliman@graduate.utm.my)
+### 📫 Reach Me
+- **Personal Email:** [shajannatuliman04@gmail.com](mailto:shajannatuliman04@gmail.com)
+- **University Email:** [shajannatuliman@graduate.utm.my](mailto:shajannatuliman@graduate.utm.my)
 
 ---
 
