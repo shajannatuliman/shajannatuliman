@@ -52,11 +52,11 @@ Welcome to my GitHub! I am a Year 3 Software Engineering student at Universiti T
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/AziidanNg">
-    <img src="https://github-readme-stats.vercel.app/api?username=AziidanNg&show_icons=true&theme=radical&hide_border=true" alt="Aziidan's GitHub stats" width="48%" />
+  <a href="https://github.com/shajannatuliman">
+    <img src="https://github-readme-stats.vercel.app/api?username=shajannatuliman&show_icons=true&theme=radical&hide_border=true" alt="Aziidan's GitHub stats" width="48%" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AziidanNg&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shajannatuliman&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
